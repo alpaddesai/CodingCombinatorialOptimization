@@ -1,0 +1,12 @@
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.exe
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.deps.json
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.runtimeconfig.json
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.runtimeconfig.dev.json
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.dll
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\bin\Release\netcoreapp3.1\CodingCombinatorialOptimization.pdb
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.AssemblyInfoInputs.cache
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.AssemblyInfo.cs
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.dll
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.pdb
+C:\Users\alpag\source\repos\CodingCombinatorialOptimization\CodingCombinatorialOptimization\obj\Release\netcoreapp3.1\CodingCombinatorialOptimization.genruntimeconfig.cache
