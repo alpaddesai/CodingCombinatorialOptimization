@@ -1,4 +1,4 @@
-# Coding Combinatorial Optimization
+# Coding Combinatorial Optimization - Software Engineering
 
 The project provides an introduction to coding algorithms for combinatorial optimization
 
