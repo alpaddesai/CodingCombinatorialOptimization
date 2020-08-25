@@ -9,3 +9,6 @@ Confidential information is not displayed.
 ## Combinatorial Optimization 
 ![image](CertificateCodingCombinatorialOptimization.jpg)
 
+
+## Practice 
+![image](WeightedAverage.jpg)
