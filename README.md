@@ -12,3 +12,5 @@ Confidential information is not displayed.
 
 ## Practice 
 ![image](WeightedAverage.jpg)
+
+Additional reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
