@@ -17,4 +17,6 @@ Confidential information is not displayed.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Additional reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
