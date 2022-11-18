@@ -15,6 +15,9 @@ Confidential information is not displayed.
 ## Practice 
 ![image](WeightedAverage.jpg)
 
+## Exam
+![image](CFAExam.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
