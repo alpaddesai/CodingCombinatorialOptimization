@@ -19,4 +19,4 @@ Confidential information is not displayed.
 
 ![image](Ethics.jpg)
 
-Additional reference : https://github.com/alpaddesai/ObjectOrientedDesignProgramming
+Additional reference : https://github.com/alpaddesai/SoftwareEngineering
