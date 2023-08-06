@@ -7,7 +7,6 @@ All images are custom by Alpa D. Desai or have references.
 Confidential information is not displayed.
 
 ## Combinatorial Optimization 
-![image](CertificateCodingCombinatorialOptimization.jpg)
 
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
