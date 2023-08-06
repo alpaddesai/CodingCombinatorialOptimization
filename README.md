@@ -12,9 +12,6 @@ Confidential information is not displayed.
 ## Algorithms
 ![image](SimulationsPerformanceMetrics.jpg)
 
-## Practice 
-![image](WeightedAverage.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
